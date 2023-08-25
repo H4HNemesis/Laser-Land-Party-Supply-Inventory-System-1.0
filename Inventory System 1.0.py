@@ -1,5 +1,6 @@
 #Laser Land Party Supply Inventory System V1.0!
 #Programmed by Noah Kim
+#Last updated 8/24/2023
 import sys
 sys.path.append("../../")
 from appJar import gui
