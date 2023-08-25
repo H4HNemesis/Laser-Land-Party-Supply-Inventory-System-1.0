@@ -201,7 +201,7 @@ spoons = app.addLabelEntry("Restock Basic Spoons", 14, 0)
 lemonades_added = app.addLabelEntry("RestockLemonade", 15, 0)
 table_covers = app.addLabelEntry("RestockTableCovers", 16, 0)
 pt_added = app.addLabelEntry("Restock Paper Towels", 17, 0)
-tp_added = app.addLabelEntry("Restock Toilet PaperS", 18, 0)
+tp_added = app.addLabelEntry("Restock Toilet Paper", 18, 0)
 app.addButtons(["Add To Inventory", "Cancel Restock"], on_restock, colspan=2)
 app.stopTab()
 
