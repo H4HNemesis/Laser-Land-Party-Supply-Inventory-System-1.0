@@ -1,0 +1,24 @@
+{
+    "neon": {
+        "cake plate": 62,
+        "plate": 205,
+        "cup": 160,
+        "fork": 160,
+        "spoon": 160
+    },
+    "basic": {
+        "plate": 970,
+        "cake plate": 375,
+        "cup": 500,
+        "fork": 1100,
+        "spoon": 400
+    },
+    "both": {
+        "table cover rolls": 10,
+        "lemonade": 37
+    },
+    "bathroom": {
+        "toilet paper": 10,
+        "paper towels": 10
+    }
+}

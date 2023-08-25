@@ -1,0 +1,24 @@
+{
+    "neon": {
+        "cake plate": 40,
+        "plate": 40,
+        "cup": 40,
+        "fork": 40,
+        "spoon": 40
+    },
+    "basic": {
+        "plate": 40,
+        "cake plate": 40,
+        "cup": 40,
+        "fork": 40,
+        "spoon": 40
+    },
+    "both": {
+        "table cover rolls": 10,
+        "lemonade": 10
+    },
+    "bathroom": {
+        "toilet paper": 10,
+        "paper towels": 10
+    }
+}
